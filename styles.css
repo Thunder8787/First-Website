@@ -1,0 +1,33 @@
+body {
+    background-color: #cdfffc;
+  }
+
+  hr {
+
+      background-color: transparent;
+      border-style: dotted;
+      border-width: 3px;
+      height: 3px;
+      border-color: grey;
+      width: 100%;
+
+  }
+
+  img {
+
+      height: 150px;
+      width: 150px;
+  
+  }
+
+  h1 {
+  
+  color: black;
+
+  }
+
+  h3 {
+
+
+    color: blue;
+  }
